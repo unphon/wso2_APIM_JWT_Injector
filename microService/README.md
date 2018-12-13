@@ -9,3 +9,5 @@
 # How to run WSO2 APIM 2.5
 * open terminal and type ```wso2am-2.5.0```
 * Note that the command located at /Library/WSO2/APIManager/2.5.0/bin/wso2server.sh
+* open https://localhost:9443/carbon and accept certificate
+* login with admin/admin
